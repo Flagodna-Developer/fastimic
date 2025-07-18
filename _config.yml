@@ -1,0 +1,16 @@
+# Basic settings
+title: HadisKu
+description: Kitab Hadis 14 Imam
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Site metadata
+url: "https://flagodna-developer.github.io/hadisku"
+author: "FlagoDNA"
+
+# SEO & Social sharing
+og_image: ""
+twitter_card: summary_large_image
+
+# Favicon
+favicon: ""
